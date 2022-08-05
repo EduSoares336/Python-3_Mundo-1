@@ -1,0 +1,7 @@
+x = input('Digite algo:')
+print(type(x))
+print(x.isalnum)
+print(x.isalpha)
+print(x.isnumeric)
+print(x.isspace)
+print(x.isdigit)

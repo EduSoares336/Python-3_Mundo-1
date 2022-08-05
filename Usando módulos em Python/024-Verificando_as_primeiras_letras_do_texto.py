@@ -1,0 +1,6 @@
+cidade = input('Digite o nome de uma cidade:')
+cidad = cidade.strip()
+cida = cidad.title()
+cid = cida.split()
+print('O nome da cidade começa com a palavra Santo?')
+print('Santo' in cid[0])

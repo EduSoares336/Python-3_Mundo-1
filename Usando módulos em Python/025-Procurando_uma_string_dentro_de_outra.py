@@ -1,0 +1,5 @@
+nome = input('Digite seu nome completo:')
+nom = nome.strip()
+no = nom.title()
+print('Possui Silva no nome?')
+print('Silva' in no)
